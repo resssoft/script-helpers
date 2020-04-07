@@ -7,6 +7,7 @@ LShift & NumpadMult::
 	{
 		Send {NumpadMult}
 	}
+	Send {NumpadEnter}
 return
 
 ;Write 30 "-" symbols on hotKey LShift & - (Numpad)
@@ -15,4 +16,5 @@ LShift & NumpadSub::
 	{
 		Send {NumpadSub}
 	}
+	Send {NumpadEnter}
 return
